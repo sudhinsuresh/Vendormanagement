@@ -23,4 +23,4 @@ Purchase Orders
 #Retrieve/Delete Purchase Order: (GET/DELETE) /api/purchase_orders/{vendor_code}/
 #Vendor Performance Metrics
 --------------------------
-Retrieve Vendor Performance Metrics: (GET) /api/vendors/<vendor_id>/performance
+#Retrieve Vendor Performance Metrics: (GET) /api/vendors/<vendor_id>/performance
