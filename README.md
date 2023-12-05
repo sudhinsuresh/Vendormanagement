@@ -1,4 +1,4 @@
-#git clone https://github.com/your_username/vendor-management-api.git
+#git clone https://github.com/sudhinsuresh/Vendormanagement.git
 
 #python -m venv myenv
 #myenv\Scripts\activate
